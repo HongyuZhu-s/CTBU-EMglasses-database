@@ -1,11 +1,18 @@
 # 👏 CTBU-EMglasses-Database 
-A low frequency eye fixation point movement database. Contains **203 classes**, each classes contains 2 10-second videos at 50 frames per second (**about 10 * 50 sample signals**), two videos from two acquisition cycles.  Specifically, participants were asked to watch video material used to stimulate vision **twice**, in the form of random points displayed on a tablet.
+A low frequency eye fixation point movement database using **Tobii Pro Glasses 3 Eye tracker**. Contains **203 classes**, each classes contains 2 10-second videos at 50 frames per second (**about 10 * 50 sample signals**), two videos from two acquisition cycles.  Specifically, participants were asked to watch video material used to stimulate vision **twice**, in the form of random points displayed on a tablet.
 
 
 <p align="center">
 <img width="500" alt="Capture field images" src="https://github.com/JinXins/CTBU-FV-Dataset/assets/101630630/0107abd2-6cc7-4d81-965b-4abfff17b6fe">
 </p>
 
+**The Tobii Pro Glasses 3 Eye tracker** is suitable for a wide range of research scenarios, enabling easy, accurate and efficient data acquisition for eye tracking.
+Rigorous, lightweight design ensures that nature's behavior can be captured and ecological validity maximized in qualitative and quantitative studies.
+Accurate data and stable eye tracking capabilities enable effective adaptation to uncontrolled, real-world research environments.
+
+<p align="center">
+<img width="500" alt="Tobii Pro Glasses 3" src="https://github.com/JinXins/CTBU-FV-Dataset/assets/101630630/f1d75d1b-89db-4e14-8ceb-43fd525269c5">
+</p>
 
 ## ✅ Download
 Send the `License Agreement.docx` to qinhuafengfeng@163.com. The successful applicants will receive the download link for the **CTBU-EMglasses-Database**
