@@ -27,7 +27,7 @@ All rights of the **CTBU-EMglasses-Database** Dataset are reserved. The dataset 
 **📧 Email: qinhuafengfeng@163.com**  
 
 ## 📖 Related Papers & Citation:
-- **EmMixfomer: Mix transformer for eye movement recognition, 2024, arXiv** *[PDF](https://arxiv.org/pdf/2401.04956.pdf)*
+- **EmMixfomer: Mix transformer for eye movement recognition, 2025, TIM** *[PDF](https://ieeexplore.ieee.org/abstract/document/10929645)*
 
 ```markdown
 @article{qin2025emmixformer,
