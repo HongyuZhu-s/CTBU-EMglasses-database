@@ -30,13 +30,13 @@ All rights of the **CTBU-EMglasses-Database** Dataset are reserved. The dataset 
 - **EmMixfomer: Mix transformer for eye movement recognition, 2024, arXiv** *[PDF](https://arxiv.org/pdf/2401.04956.pdf)*
 
 ```markdown
-@article{Qin2024EmMixformerMT,
-  title={EmMixformer: Mix transformer for eye movement recognition},
-  author={Huafeng Qin and Hongyu Zhu and Xin Jin and Qun Song and Moun{\^i}m A. El-Yacoubi and Xinbo Gao},
-  journal={ArXiv},
-  year={2024},
-  volume={abs/2401.04956},
-  url={https://api.semanticscholar.org/CorpusID:266902638}
+@article{qin2025emmixformer,
+  title={EmMixformer: Mix Transformer for Eye Movement Recognition},
+  author={Qin, Huafeng and Zhu, Hongyu and Jin, Xin and Song, Qun and El-Yacoubi, Mounim A and Gao, Xinbo},
+  journal={IEEE Transactions on Instrumentation Measurement},
+  volume={74},
+  year={2025},
+  url={https://ieeexplore.ieee.org/abstract/document/10929645}
 }
 ```
 ___
