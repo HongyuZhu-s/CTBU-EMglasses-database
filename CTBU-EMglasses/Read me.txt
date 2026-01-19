@@ -1,0 +1,24 @@
+Welcome to use EMglasses dataset.
+
+This dataset comprises eye movement data from 203 volunteers, collected using the Tobii Pro Glasses 3. 
+The term 'Dynamic' indicates that the participants' heads were not fixed in place during sampling, and the viewed materials were also not stationary.
+
+Subfiles within the dataset are named according to the following format: 'Number'-d-'Number of samples'.
+
+Should you have any questions, please feel free to reach out to me. 
+Additionally, it is recommended that you consult Tobii's user manual as well as the paper titled 'EmMixformer: Mix Transformer for Eye Movement Recognition'.
+
+If you utilize this dataset in your research, we kindly ask that you cite 'EmMixformer' in your publications. Thank you for your cooperation!
+
+"@article{qin2025emmixformer,
+  title={EmMixformer: Mix transformer for eye movement recognition},
+  author={Qin, Huafeng and Zhu, Hongyu and Jin, Xin and Song, Qun and El-Yacoubi, Mounim A and Gao, Xinbo},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2025},
+  publisher={IEEE}
+}"
+
+
+
+
+
